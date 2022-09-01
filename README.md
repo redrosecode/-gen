@@ -1,2 +1,2 @@
-# -gen
+üçgen
 üçgende alan
